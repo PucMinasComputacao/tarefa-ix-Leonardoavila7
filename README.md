@@ -9,6 +9,44 @@ A atividade foi pensada para ser concluída em até 1h no laboratório, usando V
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: leonardo
+- Matricula: 907515
+
+- # Mini Ecommerce
+
+## Funcionalidades
+
+- Renderização dinâmica de produtos
+- Busca por nome
+- Filtro por categoria
+- Destaque de cards
+- Exibição de detalhes do produto
+
+---
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- DOM
+- Git/GitHub
+
+---
+
+## Prints
+
+### Cards Renderizados
+
+<img width="1562" height="714" alt="image" src="https://github.com/user-attachments/assets/60c9cfec-67f6-4335-a0d9-ca7b148bafd9" />
+
+
+### Área de detalhes
+
+<img width="303" height="348" alt="image" src="https://github.com/user-attachments/assets/51527bd6-5132-4b01-90a0-3b05f572538a" />
+
+### Console com querySelectorAll
+
+<img width="394" height="417" alt="image" src="https://github.com/user-attachments/assets/8aa89ed6-d462-4f07-8ca3-687fb18b3310" />
+
 
